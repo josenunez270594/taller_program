@@ -5,8 +5,8 @@
 #seleccionar la opción de “FACTURAR” debe mostrar el total de la suma de los 
 #artículos, cuantos de cada uno se agregaron, el total a pagar. 
 import os
-campras = [8000,500,1000,1500,2000,300000]
-print('tienda la maquina bienvenido')
+campras = [8000,500,1000,1500,2000]
+print('tienda la maquina, bienvenido')
 nombre = input('escriba su nombre: ')
 contacto = input('escriba su contacto: ')
 dirreccion = input('escriba su dirreccion: ')
